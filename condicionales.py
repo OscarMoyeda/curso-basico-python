@@ -4,6 +4,10 @@ calificacion = int(calificacion)
 #Preguntamos la calificacion del examen
 if calificacion < 700:
     print("Ves, por no estudiar che wey")
+
+elif calificacion == 700:
+    print("Salamadre, pasaste por los pelos compa, toma tu certificado")
+
 elif calificacion > 1000:
     print("No trollear")
 
