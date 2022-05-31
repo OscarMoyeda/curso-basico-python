@@ -1,6 +1,7 @@
 # Curso Basico Python
 
 En esto curso aprendere a programar IA en python uwu
+
 ![Logo de python](imagenes\pythonlogo-200px.png)
 
 **Requisitos**
